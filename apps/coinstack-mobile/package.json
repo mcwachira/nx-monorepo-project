@@ -8,7 +8,12 @@
     "react-native": "*",
     "expo": "*",
     "react-native-svg": "*",
-    "react-native-web": "*"
+    "react-native-web": "*",
+    "@react-navigation/native":"*",
+    "react-native-safe-area-context":"*",
+    "react-native-screens":"*",
+    "react-native-paper":"*"
+
   },
   "scripts": {
     "eas-build-pre-install": "cd ../../ && cp package-lock.json ./apps/coinstack-mobile/",
